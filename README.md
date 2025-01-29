@@ -6,6 +6,6 @@ Certaines formations sont également disponibles sur notre [chaîne Youtube](htt
 
 | Date       | Formation                                    | Présentateur                    | :link:                            |
 | :--------: | :------------------------------------------: | :-----------------------------: | :-------------------------------: |
-| 2024-09-18 | Introduction à la cybersécurité              | Jean-Nicolas Turbis (myDonut)   | :file_folder:`Voir dossier dédié` | 
-| 2024-10-02 | Introduction au reverse engineering / pwning | Sabrina Haruoya  (evarina)      | :no_entry_sign:                   |
-| 2024-10-09 | Hacking de jeux vidéos                       | Léo                             | :no_entry_sign:                   |
+| 2025-01-29 | Introduction à la cybersécurité              | Jean-Nicolas Turbis (myDonut)   | :file_folder:`Voir dossier dédié` | 
+| 2025-02-12 | Introduction au reverse engineering / pwning | Sabrina Haruoya  (evarina)      | :no_entry_sign:                   |
+| 2024-03-11 | Hacking de jeux vidéos                       | Léo                             | :no_entry_sign:                   |
